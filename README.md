@@ -23,11 +23,11 @@ Switch into the temp directory.
 
 Install Composer using cURL
 
-  sudo curl -sS https://getcomposer.org/installer | php
+    sudo curl -sS https://getcomposer.org/installer | php
 
 Want to make Composer globally accessible?
 
-  mv composer.phar /usr/local/bin/composer
+    mv composer.phar /usr/local/bin/composer
 
 Conclusion:
 Composer is an essential tool for any PHP developer. It is very easy to install and you will save countless hours over the years automating your dependencies. Happy developing!
